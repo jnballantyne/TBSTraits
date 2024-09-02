@@ -1,0 +1,101 @@
+---
+title: "TBSFrugivoreTraits"
+author: "J Ballantyne"
+date: "`r Sys.Date()`"
+output: 
+  html_document: 
+    keep_md: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#1 EltonTraits - Mammals
+#2 EltonTraits - Birds
+#3 Pantheria test and missing data added - Mammals
+#4 AVOnet - Birds
+
+#1 EltonTraits - Mammals (My try for the mammals with elton_mammals in the package "traitdata")
+## Get packages
+```{r}
+if(!require(dplyr))install.packages("dplyr", dependencies = TRUE)
+if(!require(devtools))install.packages("devtools", dependencies = TRUE)
+if(!require(traitdata))install.packages("traitdata", dependencies = TRUE)
+if(!require(tidyr))install.packages("tidyr", dependencies = TRUE)
+```
+## Load packages
+```{r}
+library(dplyr)
+library(devtools)
+library(traitdata)
+library(tidyr)
+```
+## Check out elton_mammals
+```{r}
+##traitdata::elton_mammals
+```
+## Load Tiputini species list data - file is 082924_animals2.csv
+```{r}
+TBS_animals1 <- read.csv("/Users/jacquelineballantyne/Desktop/R_2024/TCTS_data/082924_animals2.csv", header=T, as.is=T)
+```
+## Remove volant mammals (for now)
+```{r}
+TBS_mams <- TBS_animals1[TBS_animals1$Class == "Mammalia", ]
+
+TBS_nonvolmams <- TBS_mams[TBS_mams$Order != "Chiroptera", ]
+```
+## Get rid of silly cols in Tiputini data
+```{r}
+keeplist <- c("Scientific_name", "Common_name", "IUCN" #,"Detected"
+              )
+TBS_nonvolmams1 <- TBS_nonvolmams[,keeplist]
+```
+## Load elton_mammals database
+```{r}
+data("elton_mammals")
+elton_mams1 <- elton_mammals
+elton_mams1$Scientific_name <- paste(elton_mams1$Genus, elton_mams1$Species, sep = " ")
+```
+## Get traits and headers
+```{r}
+names(elton_mams1)
+names(TBS_nonvolmams1)
+```
+
+## Remove undetected mammals (do this step when you get the final list)
+```{r}
+###TBS_nonvolmams_detected <- TBS_animals2[TBS_animals2$Detected == "Yes", ]
+```
+
+## elton_mams species with traits (do this once I have selected the traits to keep)
+```{r}
+#keeplist <- c("Scientific_name", "AdultBodyMass_g") ## I think I should just skip this step and see if it works then go back and just keep ones that are complete for my list or nearly so
+
+#elton_mams2 <- elton_mams1[,keeplist]
+```
+## merging my list with the elton_mammals list to get traits for mine only
+```{r}
+head(elton_mams1)
+TBS_nonvolmams_elton <- merge(TBS_nonvolmams, elton_mams1, by.x = "Scientific_name", by.y = "Scientific_name", all.x = T, all.y = F)
+head(TBS_nonvolmams_elton) 
+```
+## show the ones that dont match
+```{r}
+TBS_nonvolmams_elton_noNA <- na.omit(TBS_nonvolmams_elton)
+```
+
+```{r}
+TBS_nonvolmams_nonmatch <- anti_join(TBS_nonvolmams_elton, TBS_nonvolmams_elton_noNA, by="Scientific_name")
+head(TBS_nonvolmams_nonmatch)
+```
+
+### Notes from ^
+#### I made two columns in my data set with the most up to date Scientific name and the old names used in elton_traits - I remember seeing a code somewhere that auto updated but I dont have time for that rn
+
+
+```{r}
+##summary(traitdata)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

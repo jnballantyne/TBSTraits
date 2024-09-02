@@ -1,0 +1,415 @@
+Lastest_revision,Code,Class,Order,Family,Genus,Scientific_name_2024,Scientific_name,Common_name,Diet,Strata,IUCN,Note
+30/04/23,BUTMAG,Aves,Accipitriformes,Accipitridae,Buteo,Buteo magnirostris,Buteo magnirostris,Roadside hawk,Herbivore,Mixed-low,LC,
+30/04/23,BUTURU,Aves,Accipitriformes,Accipitridae,Buteogallus,Buteogallus urubitinga,Buteogallus urubitinga,Great black hawk,Herbivore,Mixed-low,LC,
+30/04/23,ICTPLU,Aves,Accipitriformes,Accipitridae,Ictinia,Ictinia plumbea,Ictinia plumbea,Plumbeous kite,Herbivore,Mixed-low,LC,
+30/04/23,LEUMEL,Aves,Accipitriformes,Accipitridae,Leucopternis,Leucopternis melanops,Leucopternis melanops,Black-faced hawk,Herbivore,Mixed-low,LC,
+30/04/23,LEUSCH,Aves,Accipitriformes,Accipitridae,Leucopternis,Leucopternis schistacea,Leucopternis schistacea,Slate-colored hawk,Herbivore,Mixed-low,LC,
+30/04/23,SPIORN,Aves,Accipitriformes,Accipitridae,Spizaetus,Spizaetus ornatus,Spizaetus ornatus,Ornate hawk-eagle,Herbivore,Mixed-low,NT,
+30/04/23,NYCAET,Aves,Caprimulgiformes,Nyctibiidae,Nyctibius,Nyctibius aethereus,Nyctibius aethereus,Long-tailed potoo,Herbivore,Mixed,LC,
+30/04/23,NYCGRA,Aves,Caprimulgiformes,Nyctibiidae,Nyctibius,Nyctibius grandis,Nyctibius grandis,Great potoo,Herbivore,Mixed,LC,
+30/04/23,NYCGRI,Aves,Caprimulgiformes,Nyctibiidae,Nyctibius,Nyctibius griseus,Nyctibius griseus,Common potoo,Herbivore,Mixed,LC,
+30/04/23,NYCOCE,Aves,Caprimulgiformes,Caprimulgidae,Nyctiphrynus,Nyctiphrynus ocellatus,Nyctiphrynus ocellatus,Ocellated poorwill,Herbivore,Terrestrial,LC,
+30/04/23,FLOMEL,Aves,Caprimulgiformes,Trochilidae,Florisuga,Florisuga mellivora,Florisuga mellivora,White-necked jacobin,Herbivore,Mixed-low,LC,
+30/04/23,HELAUR,Aves,Caprimulgiformes,Trochilidae,Heliodoxa,Heliodoxa aurescens,Heliodoxa aurescens,Gould's brilliant,Herbivore,Mixed-low,LC,
+30/04/23,HELSCH,Aves,Caprimulgiformes,Trochilidae,Heliodoxa,Heliodoxa schreibersii,Heliodoxa schreibersii,Black-throated brilliant,Herbivore,Mixed-low,LC,
+30/04/23,PHAATR,Aves,Caprimulgiformes,Trochilidae,Phaethornis,Phaethornis atrimentalis,Phaethornis atrimentalis,Black-throated hermit,Herbivore,Mixed-low,LC,
+30/04/23,PHABOU,Aves,Caprimulgiformes,Trochilidae,Phaethornis,Phaethornis bourcieri,Phaethornis bourcieri,Straight-billed hermit,Herbivore,Mixed-low,LC,
+30/04/23,PHAMAL,Aves,Caprimulgiformes,Trochilidae,Phaethornis,Phaethornis malaris,Phaethornis malaris,Great-billed hermit,Herbivore,Mixed-low,LC,
+30/04/23,PHARUB,Aves,Caprimulgiformes,Trochilidae,Phaethornis,Phaethornis ruber,Phaethornis ruber,Reddish hermit,Herbivore,Mixed-low,LC,
+30/04/23,THAFUR,Aves,Caprimulgiformes,Trochilidae,Thalurania,Thalurania furcata,Thalurania furcata,Fork-tailed woodnymph,Herbivore,Mixed-low,LC,
+30/04/23,GEOMON,Aves,Columbiformes,Columbidae,Geotrygon,Geotrygon montana,Geotrygon montana,Ruddy quail-dove,Herbivore,Terrestrial,LC,Has white band at shoulder on wing
+30/04/23,GEOSAP,Aves,Columbiformes,Columbidae,Geotrygon,Geotrygon saphirina,Geotrygon saphirina,Sapphire quail-dove,Herbivore,Terrestrial,LC,
+30/04/23,LEPRUF,Aves,Columbiformes,Columbidae,Leptotila,Leptotila rufaxilla,Leptotila rufaxilla,Grey-fronted dove,Herbivore,Mixed,LC,white wing band absent
+30/04/23,COLPLU,Aves,Columbiformes,Columbidae,Patagioenas,Patagioenas plumbea,Patagioenas plumbea,Plumbeous pigeon,Herbivore,Mixed-low,LC,
+30/04/23,COLSUB,Aves,Columbiformes,Columbidae,Patagioenas,Patagioenas subvinacea,Patagioenas subvinacea,Ruddy pigeon,Herbivore,Mixed-low,LC,
+30/04/23,BARMAR,Aves,Coraciiformes,Motmotidae,Baryphthengus,Baryphthengus martii,Baryphthengus martii,Rufous motmot,Herbivore,Mixed-low,LC,
+30/04/23,ELEPLA,Aves,Coraciiformes,Motmotidae,Electron,Electron platyrhynchum,Electron platyrhynchum,Broad-billed motmot,Herbivore,Mixed-low,LC,
+30/04/23,MOMMOM,Aves,Coraciiformes,Motmotidae,Momotus,Momotus momota,Momotus momota,Amazonian motmot,Herbivore,Mixed-low,LC,
+30/04/23,PIACAY,Aves,Cuculiformes,Cuculidae,Piaya,Piaya cayana,Piaya cayana,Common squirrel cuckoo,Herbivore,Mixed-low,LC,Komar and Thurber 2003
+30/04/23,DAPATE,Aves,Falconiformes,Falconidae,Daptrius,Daptrius ater,Daptrius ater,Black Caracara,Herbivore,Mixed-low,LC,
+30/04/23,HERCAC,Aves,Falconiformes,Falconidae,Herpetotheres,Herpetotheres cachinnans,Herpetotheres cachinnans,Laughing Falcon,Herbivore,Mixed-low,LC,
+30/04/23,DAPAME,Aves,Falconiformes,Falconidae,Ibycter,Ibycter americanus,Ibycter americanus,Red-throated Caracara,Herbivore,Mixed-low,LC,Range extends to edge of Tiputini. 
+30/04/23,MICBUC,Aves,Falconiformes,Falconidae,Micrastur,Micrastur buckleyi,Micrastur buckleyi,Buckley's Forest-falcon,Herbivore,Mixed-low,LC,
+30/04/23,MICGIL,Aves,Falconiformes,Falconidae,Micrastur,Micrastur gilvicollis,Micrastur gilvicollis,Lined Forest-falcon,Herbivore,Mixed-low,LC,
+30/04/23,MICRUF,Aves,Falconiformes,Falconidae,Micrastur,Micrastur ruficollis,Micrastur ruficollis,Barred Forest-falcon,Herbivore,Mixed-low,LC,
+30/04/23,MICSEM,Aves,Falconiformes,Falconidae,Micrastur,Micrastur semitorquatus,Micrastur semitorquatus,Collared Forest-falcon,Herbivore,Mixed-low,LC,
+30/04/23,MITSAL,Aves,Galliformes,Cracidae,Mitu,Mitu salvini,Mitu salvini,Salvin's currasow,Herbivore,Terrestrial,LC,
+30/04/23,NOTURU,Aves,Galliformes,Cracidae,Nothocrax,Nothocrax urumutum,Nothocrax urumutum,Nocturnal currasow,Herbivore,Terrestrial,LC,
+30/04/23,PENJAC,Aves,Galliformes,Cracidae,Penelope,Penelope jacquacu,Penelope jacquacu,Spix's guan,Herbivore,Mixed,LC,
+30/04/23,ABUCUM,Aves,Galliformes,Cracidae,Pipile,Pipile cumanensis,Pipile cumanensis,Blue-throated piping guan,Herbivore,Mixed,LC,
+30/04/23,ODOGUJ,Aves,Galliformes,Cracidae,Odontophorus,Odontophorus gujanensis,Odontophorus gujanensis,Marbled wood-quail,Herbivore,Terrestrial,LC,
+30/04/23,PSOCRE,Aves,Gruiformes,Psophiidae,Psophia,Psophia crepitans,Psophia crepitans,Grey-winged trumpeter,Herbivore,Terrestrial,LC,
+30/04/23,ANUCAS,Aves,Gruiformes,Rallidae,Anurolimnas,Anurolimnas castaneiceps,Anurolimnas castaneiceps,Chestnut-headed crake,Herbivore,Terrestrial,LC,
+30/04/23,CERCIN,Aves,Passeriformes,Thamnophilidae,Cercomacra,Cercomacra cinerascens,Cercomacra cinerascens,Grey antbird,Herbivore,Mixed-low,LC,
+30/04/23,CERSER,Aves,Passeriformes,Thamnophilidae,Cercomacroides,Cercomacroides serva,Cercomacroides serva,Black antbird,Herbivore,Mixed-low,LC,Formerly Ceromacra
+30/04/23,CYMLIN,Aves,Passeriformes,Thamnophilidae,Cymbilaimus,Cymbilaimus lineatus,Cymbilaimus lineatus,Fasciated Antshrike,Herbivore,Mixed-low,LC,
+30/04/23,DICCIN,Aves,Passeriformes,Thamnophilidae,Dichrozona,Dichrozona cincta,Dichrozona cincta,Banded Antbird,Herbivore,Mixed-low,LC,
+30/04/23,MYRERY,Aves,Passeriformes,Thamnophilidae,Epinecrophylla,Epinecrophylla erythrura,Epinecrophylla erythrura,Rufous-tailed Antwren,Herbivore,Mixed-low,LC,
+30/04/23,MYRFJE,Aves,Passeriformes,Thamnophilidae,Epinecrophylla,Epinecrophylla haematonota,Epinecrophylla haematonota,Western Stipple-throated Antwren,Herbivore,Mixed-low,LC,Tiputini close to edge of range.
+30/04/23,MYRORN,Aves,Passeriformes,Thamnophilidae,Epinecrophylla,Epinecrophylla ornata,Epinecrophylla ornata,Western Ornate Antwren,Herbivore,Mixed-low,LC,Fragmented distribution. Vertical band on range map near Tiputini area. 
+30/04/23,FREUND,Aves,Passeriformes,Thamnophilidae,Frederickena,Frederickena unduliger,Frederickena unduliger,Undulated Antshrike,Herbivore,Mixed-low,LC,
+30/04/23,GYMLEU,Aves,Passeriformes,Thamnophilidae,Gymnopithys,Gymnopithys leucaspis,Gymnopithys leucaspis,White-cheeked Antbird,Herbivore,Mixed-low,LC,
+30/04/23,GYMLUN,Aves,Passeriformes,Thamnophilidae,Oneillornis,Oneillornis lunulatus,Oneillornis lunulatus,Lunulated Antbird,Herbivore,Mixed-low,LC,Formerly Gymnopithys
+30/04/23,HERDUG,Aves,Passeriformes,Thamnophilidae,Herpsilochmus,Herpsilochmus dugandi,Herpsilochmus dugandi,Dugand's Antwren,Herbivore,Mixed-low,LC,
+30/04/23,HYLNAE,Aves,Passeriformes,Thamnophilidae,Hylophylax,Hylophylax naevius,Hylophylax naevius,Spot-backed Antbird,Herbivore,Mixed-low,LC,
+30/04/23,HYPCAN,Aves,Passeriformes,Thamnophilidae,Hypocnemis,Hypocnemis cantator,Hypocnemis cantator,Guianan Antwarbler,Herbivore,Mixed-low,LC,Range eastern Amazon. Does not extend to ecuador. 
+30/04/23,HYPHYP,Aves,Passeriformes,Thamnophilidae,Hypocnemis,Hypocnemis hypoxantha,Hypocnemis hypoxantha,Yellow-browed Antwarbler,Herbivore,Mixed-low,LC,
+30/04/23,MYRHAU,Aves,Passeriformes,Thamnophilidae,Isleria,Isleria hauxwelli,Isleria hauxwelli,Plain-throated Antwren,Herbivore,Mixed-low,LC,
+30/04/23,MEGMAR,Aves,Passeriformes,Thamnophilidae,Megastictus,Megastictus margaritatus,Megastictus margaritatus,Pearly Antshrike,Herbivore,Mixed-low,LC,Range borders Tiputini range. 
+30/04/23,MICQUI,Aves,Passeriformes,Thamnophilidae,Microrhopias,Microrhopias quixensis,Microrhopias quixensis,Dot-winged Antwren,Herbivore,Mixed-low,LC,
+30/04/23,MYRFOR,Aves,Passeriformes,Thamnophilidae,Hafferia,Hafferia fortis,Hafferia fortis,Sooty Antbird,Herbivore,Mixed-low,LC,Formerly Myrmeciza
+30/04/23,MYRMYO,Aves,Passeriformes,Thamnophilidae,Myrmoborus,Myrmoborus myotherinus,Myrmoborus myotherinus,Black-faced Antbird,Herbivore,Mixed-low,LC,
+30/04/23,MYRAXI,Aves,Passeriformes,Thamnophilidae,Myrmotherula,Myrmotherula axillaris,Myrmotherula axillaris,White-flanked Antwren,Herbivore,Mixed-low,LC,
+30/04/23,MYRBRA,Aves,Passeriformes,Thamnophilidae,Myrmotherula,Myrmotherula brachyura,Myrmotherula brachyura,Pygmy Antwren,Herbivore,Mixed-low,LC,Subspecies recorded at TBS and removed from original list: Myrmotherula obscura
+30/04/23,MYRLON,Aves,Passeriformes,Thamnophilidae,Myrmotherula,Myrmotherula longipennis,Myrmotherula longipennis,Long-winged Antwren,Herbivore,Mixed-low,LC,
+30/04/23,MYRMEN,Aves,Passeriformes,Thamnophilidae,Myrmotherula,Myrmotherula menetriesii,Myrmotherula menetriesii,Grey Antwren,Herbivore,Mixed-low,LC,
+30/04/23,NEONIG,Aves,Passeriformes,Thamnophilidae,Neoctantes,Neoctantes niger,Neoctantes niger,Black Bushbird,Herbivore,Mixed-low,LC,
+30/04/23,PHLERY,Aves,Passeriformes,Thamnophilidae,Phlegopsis,Phlegopsis erythroptera,Phlegopsis erythroptera,Reddish-winged Bare-eye,Herbivore,Mixed-low,LC,
+30/04/23,PITALB,Aves,Passeriformes,Thamnophilidae,Pithys,Pithys albifrons,Pithys albifrons,White-plumed Antbird,Herbivore,Mixed-low,LC,
+30/04/23,PYGSTE,Aves,Passeriformes,Thamnophilidae,Pygiptila,Pygiptila stellaris,Pygiptila stellaris,Spot-winged Antshrike,Herbivore,Mixed-low,LC,
+30/04/23,RHEMEL,Aves,Passeriformes,Thamnophilidae,Rhegmatorhina,Rhegmatorhina melanosticta,Rhegmatorhina melanosticta,Hairy-crested Antbird,Herbivore,Mixed-low,LC,
+30/04/23,SCHLEU,Aves,Passeriformes,Thamnophilidae,Schistocichla,Schistocichla leucostigma,Schistocichla leucostigma,Spot-winged Antbird,Herbivore,Mixed-low,LC,
+30/04/23,SCLNAE,Aves,Passeriformes,Thamnophilidae,Sclateria,Sclateria naevia,Sclateria naevia,Silvered Antbird,Herbivore,Mixed-low,LC,
+30/04/23,THAARD,Aves,Passeriformes,Thamnophilidae,Thamnomanes,Thamnomanes ardesiacus,Thamnomanes ardesiacus,Dusky-throated Antshrike,Herbivore,Mixed-low,LC,
+30/04/23,THACAE,Aves,Passeriformes,Thamnophilidae,Thamnomanes,Thamnomanes caesius,Thamnomanes caesius,Cinereous Antshrike,Herbivore,Mixed-low,LC,
+30/04/23,THAAET,Aves,Passeriformes,Thamnophilidae,Thamnophilus,Thamnophilus aethiops,Thamnophilus aethiops,White-shouldered Antshrike,Herbivore,Mixed-low,LC,Range map on edge of tiputini border. 
+30/04/23,THAMUR,Aves,Passeriformes,Thamnophilidae,Thamnophilus,Thamnophilus murinus,Thamnophilus murinus,Mouse-colored Antshrike,Herbivore,Mixed-low,LC,
+30/04/23,THASCH,Aves,Passeriformes,Thamnophilidae,Thamnophilus,Thamnophilus schistaceus,Thamnophilus schistaceus,Plain-winged Antshrike,Herbivore,Mixed-low,LC,
+30/04/23,HYLPOE,Aves,Passeriformes,Thamnophilidae,Willisornis,Willisornis poecilinotus,Willisornis poecilinotus,Common Scale-backed Antbird,Herbivore,Mixed-low,LC,
+30/04/23,CONPER,Aves,Passeriformes,Conopophagidae,Conopophaga,Conopophaga peruviana,Conopophaga peruviana,Ash-throated Gnateater,Herbivore,Mixed-low,LC,Range on edge of tiputini area. 
+30/04/23,GRADIG,Aves,Passeriformes,Grallariidae,Grallaria,Grallaria dignissima,Grallaria dignissima,Ochre-striped Antpitta,Herbivore,Terrestrial,LC,
+30/04/23,MYRCAM,Aves,Passeriformes,Grallariidae,Myrmothera,Myrmothera campanisona,Myrmothera campanisona,Thrush-like Antpitta,Herbivore,Terrestrial,LC,
+30/04/23,LIOTHO,Aves,Passeriformes,Rhinocryptidae,Liosceles,Liosceles thoracicus,Liosceles thoracicus,Rusty-belted Tapaculo,Herbivore,Terrestrial,LC,
+30/04/23,CHANOB,Aves,Passeriformes,Formicariidae,Chamaeza,Chamaeza nobilis,Chamaeza nobilis,Striated Antthrush,Herbivore,Terrestrial,LC,
+30/04/23,FORANA,Aves,Passeriformes,Formicariidae,Formicarius,Formicarius analis,Formicarius analis,Black-faced Antthrush,Herbivore,Terrestrial,LC,
+30/04/23,FORCOL,Aves,Passeriformes,Formicariidae,Formicarius,Formicarius colma,Formicarius colma,Rufous-capped Antthrush,Herbivore,Terrestrial,LC,
+30/04/23,CAMTRO,Aves,Passeriformes,Furnariidae,Campylorhamphus,Campylorhamphus trochilirostris,Campylorhamphus trochilirostris,Red-billed Scythebill,Herbivore,Mixed-low,LC,
+30/04/23,DECLON,Aves,Passeriformes,Furnariidae,Deconychura,Deconychura longicauda,Deconychura longicauda,Northern Long-tailed Woodcreeper,Herbivore,Mixed-low,LC,Range map appears incorrect on IUCN. Confirmed by e-bird.
+30/04/23,DENRUF,Aves,Passeriformes,Furnariidae,Dendrexetastes,Dendrexetastes rufigula,Dendrexetastes rufigula,Cinnamon-throated Woodcreeper,Herbivore,Mixed-low,LC,
+30/04/23,DENFUL,Aves,Passeriformes,Furnariidae,Dendrocincla,Dendrocincla fuliginosa,Dendrocincla fuliginosa,Plain-brown Woodcreeper,Herbivore,Mixed-low,LC,
+30/04/23,DENCER,Aves,Passeriformes,Furnariidae,Dendrocolaptes,Dendrocolaptes certhia,Dendrocolaptes certhia,Amazonian Barred Woodcreeper,Herbivore,Mixed-low,LC,
+30/04/23,GLYSPI,Aves,Passeriformes,Furnariidae,Glyphorynchus,Glyphorynchus spirurus,Glyphorynchus spirurus,Wedge-billed Woodcreeper,Herbivore,Mixed-low,LC,
+30/04/23,LEPALB,Aves,Passeriformes,Furnariidae,Lepidocolaptes,Lepidocolaptes albolineatus,Lepidocolaptes albolineatus,Guianan woodcreeper,Herbivore,Mixed-low,LC,Formerly one of several known as Lineated woodcreeper. Range map IUCN and e-bird doesnt extend to Ecuador. 
+30/04/23,NASLON,Aves,Passeriformes,Furnariidae,Nasica,Nasica longirostris,Nasica longirostris,Long-billed Woodcreeper,Herbivore,Mixed-low,LC,
+30/04/23,XIPPRO,Aves,Passeriformes,Furnariidae,Xiphocolaptes,Xiphocolaptes promeropirhynchus,Xiphocolaptes promeropirhynchus,Strong-billed Woodcreeper,Herbivore,Mixed-low,LC,
+30/04/23,XIPOBS,Aves,Passeriformes,Furnariidae,Xiphorhynchus,Xiphorhynchus obsoletus,Xiphorhynchus obsoletus,Striped Woodcreeper,Herbivore,Mixed-low,LC,
+30/04/23,XIPPIC,Aves,Passeriformes,Furnariidae,Dendroplex,Dendroplex picus,Dendroplex picus,Straight-billed Woodcreeper,Herbivore,Mixed-low,LC,Formerly Xiphorhynchus
+30/04/23,XIPGUT,Aves,Passeriformes,Furnariidae,Xiphorhynchus,Xiphorhynchus guttatus,Xiphorhynchus guttatus,Buff-throated Woodcreeper,Herbivore,Mixed-low,LC,Range map appears wrong on IUCN. Confirmed by e-bird.
+30/04/23,XIPOCE,Aves,Passeriformes,Furnariidae,Xiphorhynchus,Xiphorhynchus ocellatus,Xiphorhynchus ocellatus,Ocellated Woodcreeper,Herbivore,Mixed-low,LC,Range map appears wrong on IUCN. Confirmed by e-bird.
+30/04/23,XIPSPI,Aves,Passeriformes,Furnariidae,Xiphorhynchus,Xiphorhynchus spixii,Xiphorhynchus spixii,Spix's Woodcreeper,Herbivore,Mixed-low,LC,Range does not extend into Ecuador. Limited to Brazil mainly in state of para. 
+30/04/23,ANCSTR,Aves,Passeriformes,Furnariidae,Ancistrops,Ancistrops strigilatus,Ancistrops strigilatus,Chestnut-winged Hookbill,Herbivore,Mixed-low,LC,
+30/04/23,AUTINF,Aves,Passeriformes,Furnariidae,Automolus,Automolus infuscatus,Automolus infuscatus,Olive-backed Foliage-gleaner,Herbivore,Mixed-low,LC,
+30/04/23,AUTMEL,Aves,Passeriformes,Furnariidae,Automolus,Automolus melanopezus,Automolus melanopezus,Brown-rumped Foliage-gleaner,Herbivore,Mixed-low,LC,"Small range distribution in ecuador, likely Tiputini. "
+30/04/23,AUTOCH,Aves,Passeriformes,Furnariidae,Automolus,Automolus ochrolaemus,Automolus ochrolaemus,Buff-throated Foliage-gleaner,Herbivore,Mixed-low,LC,
+30/04/23,AUTRUB,Aves,Passeriformes,Furnariidae,Clibanornis,Clibanornis rubiginosus,Clibanornis rubiginosus,Ruddy Foliage-gleaner,Herbivore,Mixed-low,LC,Formerly Automolus. Two entries available in IUCN.
+30/04/23,AUTRUF,Aves,Passeriformes,Furnariidae,Automolus,Automolus rufipileatus,Automolus rufipileatus,Chestnut-crowned Foliage-gleaner,Herbivore,Mixed-low,LC,
+30/04/23,HYLSUB,Aves,Passeriformes,Furnariidae,Automolus,Automolus subulatus,Automolus subulatus,Amazonian Woodhaunter,Herbivore,Mixed-low,LC,Formerly Hyloctistes
+30/04/23,PHIERY,Aves,Passeriformes,Furnariidae,Philydor,Philydor erythrocercum,Philydor erythrocercum,Rufous-rumped Foliage-gleaner,Herbivore,Mixed-low,LC,
+30/04/23,PHIERT,Aves,Passeriformes,Furnariidae,Philydor,Philydor erythropterum,Philydor erythropterum,Chestnut-winged Foliage-gleaner,Herbivore,Mixed-low,LC,Formerly Philydor erythropterus
+30/04/23,PHIPYR,Aves,Passeriformes,Furnariidae,Philydor,Philydor pyrrhodes,Philydor pyrrhodes,Cinnamon-rumped Foliage-gleaner,Herbivore,Mixed-low,LC,
+30/04/23,PHIRUF,Aves,Passeriformes,Furnariidae,Anabacerthia,Anabacerthia ruficaudata,Anabacerthia ruficaudata,Rufous-tailed Foliage-gleaner,Herbivore,Mixed-low,LC,Formerly Philydor ruficaudatus. Small bit of range extending into eastern ecuador. 
+30/04/23,SCLCAU,Aves,Passeriformes,Furnariidae,Sclerurus,Sclerurus caudacutus,Sclerurus caudacutus,Black-tailed Leaftosser,Herbivore,Mixed-low,LC,
+30/04/23,SCLMEX,Aves,Passeriformes,Furnariidae,Sclerurus,Sclerurus mexicanus,Sclerurus mexicanus,Tawny-throated Leaftosser,Herbivore,Mixed-low,LC,
+30/04/23,SCLRUF,Aves,Passeriformes,Furnariidae,Sclerurus,Sclerurus rufigularis,Sclerurus rufigularis,Short-billed Leaftosser,Herbivore,Mixed-low,LC,
+30/04/23,SYNRUT,Aves,Passeriformes,Furnariidae,Synallaxis,Synallaxis rutilans,Synallaxis rutilans,Ruddy Spinetail,Herbivore,Mixed-low,LC,
+30/04/23,XENMIN,Aves,Passeriformes,Furnariidae,Xenops,Xenops minutus,Xenops minutus,Plain xenops,Herbivore,Mixed-low,LC,IUCN range map appears incorrect. Confirmed on e-bird
+30/04/23,XENTEN,Aves,Passeriformes,Furnariidae,Xenops,Xenops tenuirostris,Xenops tenuirostris,Slender-billed Xenops,Herbivore,Mixed-low,LC,
+30/04/23,PIPERY,Aves,Passeriformes,Pipridae,Ceratopipra,Ceratopipra erythrocephala,Ceratopipra erythrocephala,Golden-headed Manakin,Herbivore,Mixed-low,LC,
+30/04/23,CHIPAR,Aves,Passeriformes,Pipridae,Chiroxiphia,Chiroxiphia pareola,Chiroxiphia pareola,Blue-backed Manakin,Herbivore,Mixed-low,LC,
+30/04/23,PIPPIP,Aves,Passeriformes,Pipridae,Pseudopipra,Pseudopipra pipra,Pseudopipra pipra,White-crowned Manakin,Herbivore,Mixed-low,LC,Formerly Dixiphia
+30/04/23,PIPCOR,Aves,Passeriformes,Pipridae,Lepidothrix,Lepidothrix coronata,Lepidothrix coronata,Blue-crowned Manakin,Herbivore,Mixed-low,LC,
+30/04/23,MACREG,Aves,Passeriformes,Pipridae,Machaeropterus,Machaeropterus regulus,Machaeropterus regulus,Kinglet Manakin,Herbivore,Mixed-low,LC,Range maps on IUCN and e-bird do not extend to ecuador. 
+30/04/23,PIPFIL,Aves,Passeriformes,Pipridae,Pipra,Pipra filicauda,Pipra filicauda,Wire-tailed Manakin,Herbivore,Mixed-low,LC,
+30/04/23,TYRSTO,Aves,Passeriformes,Pipridae,Tyranneutes,Tyranneutes stolzmanni,Tyranneutes stolzmanni,Dwarf Tyrant-manakin,Herbivore,Mixed-low,LC,
+30/04/23,LANHYP,Aves,Passeriformes,Tityridae,Laniocera,Laniocera hypopyrra,Laniocera hypopyrra,Cinereous Mourner,Herbivore,Mixed-low,LC,
+30/04/23,LIPVOC,Aves,Passeriformes,Cotingidae,Lipaugus,Lipaugus vociferans,Lipaugus vociferans,Screaming Piha,Herbivore,Mixed-low,LC,
+30/04/23,PHONIG,Aves,Passeriformes,Cotingidae,Phoenicircus,Phoenicircus nigricollis,Phoenicircus nigricollis,Black-necked Red Cotinga,Herbivore,Mixed-low,LC,
+30/04/23,QUEPUR,Aves,Passeriformes,Cotingidae,Querula,Querula purpurata,Querula purpurata,Purple-throated Fruitcrow,Herbivore,Mixed-low,LC,
+30/04/23,PACCAS,Aves,Passeriformes,Tityridae,Pachyramphus,Pachyramphus castaneus,Pachyramphus castaneus,Chestnut-crowned Becard,Herbivore,Mixed-low,LC,
+30/04/23,PACMAR,Aves,Passeriformes,Tityridae,Pachyramphus,Pachyramphus marginatus,Pachyramphus marginatus,Black-capped Becard,Herbivore,Mixed-low,LC,
+30/04/23,PACPOL,Aves,Passeriformes,Tityridae,Pachyramphus,Pachyramphus polychopterus,Pachyramphus polychopterus,White-winged Becard,Herbivore,Mixed-low,LC,
+30/04/23,SCHMAJ,Aves,Passeriformes,Tityridae,Schiffornis,Schiffornis major,Schiffornis major,Varzea Schiffornis,Herbivore,Mixed-low,LC,
+30/04/23,SCHTUR,Aves,Passeriformes,Tityridae,Schiffornis,Schiffornis turdina,Schiffornis turdina,Brown-winged Mourner,Herbivore,Mixed-low,LC,"Small bit of range extends into eastern ecuador, maybe tiputini. "
+30/04/23,TITCAY,Aves,Passeriformes,Tityridae,Tityra,Tityra cayana,Tityra cayana,Western Black-tailed Tityra,Herbivore,Mixed-low,LC,
+30/04/23,MYIBAR,Aves,Passeriformes,Tityridae,Myiobius,Myiobius barbatus,Myiobius barbatus,Whiskered Flycatcher,Herbivore,Mixed-low,LC,
+30/04/23,TERERY,Aves,Passeriformes,Tityridae,Terenotriccus,Terenotriccus erythrurus,Terenotriccus erythrurus,Ruddy-tailed Flycatcher,Herbivore,Mixed-low,LC,
+30/04/23,ATISPA,Aves,Passeriformes,Tyrannidae,Attila,Attila spadiceus,Attila spadiceus,Bright-rumped Attila,Herbivore,Mixed-low,LC,
+30/04/23,CNISUB,Aves,Passeriformes,Tyrannidae,Cnipodectes,Cnipodectes subbrunneus,Cnipodectes subbrunneus,Brownish Twistwing,Herbivore,Mixed-low,LC,
+30/04/23,CONVIR,Aves,Passeriformes,Tyrannidae,Contopus,Contopus virens,Contopus virens,Eastern Wood-pewee,Herbivore,Mixed-low,LC,
+30/04/23,CORTOR,Aves,Passeriformes,Tyrannidae,Corythopis,Corythopis torquatus,Corythopis torquatus,Ringed Antpipit,Herbivore,Mixed-low,LC,
+30/04/23,HEMZOS,Aves,Passeriformes,Tyrannidae,Hemitriccus,Hemitriccus zosterops,Hemitriccus zosterops,White-eyed Tody-tyrant,Herbivore,Mixed-low,LC,"Small portion of range in eastern ecuador, maybe tiputini. "
+30/04/23,LEGLEU,Aves,Passeriformes,Tyrannidae,Legatus,Legatus leucophaius,Legatus leucophaius,Piratic Flycatcher,Herbivore,Mixed-low,LC,
+30/04/23,LOPVIT,Aves,Passeriformes,Tyrannidae,Lophotriccus,Lophotriccus vitiosus,Lophotriccus vitiosus,Double-banded Pygmy-tyrant,Herbivore,Mixed-low,LC,
+30/04/23,MIOOLE,Aves,Passeriformes,Tyrannidae,Mionectes,Mionectes oleagineus,Mionectes oleagineus,Ochre-bellied Flycatcher,Herbivore,Mixed-low,LC,
+30/04/23,MYITUB,Aves,Passeriformes,Tyrannidae,Myiarchus,Myiarchus tuberculifer,Myiarchus tuberculifer,Dusky-capped Flycatcher,Herbivore,Mixed-low,LC,
+30/04/23,PLACOR,Aves,Passeriformes,Tyrannidae,Platyrinchus,Platyrinchus coronatus,Platyrinchus coronatus,Golden-crowned Spadebill,Herbivore,Mixed-low,LC,
+30/04/23,POECAP,Aves,Passeriformes,Tyrannidae,Poecilotriccus,Poecilotriccus capitalis,Poecilotriccus capitalis,Black-and-white Tody-flycatcher,Herbivore,Mixed-low,LC,
+30/04/23,RAMRUF,Aves,Passeriformes,Tyrannidae,Ramphotrigon,Ramphotrigon ruficauda,Ramphotrigon ruficauda,Rufous-tailed Flatbill,Herbivore,Mixed-low,LC,
+30/04/23,RHYSIM,Aves,Passeriformes,Tyrannidae,Rhytipterna,Rhytipterna simplex,Rhytipterna simplex,Greyish Mourner,Herbivore,Mixed-low,LC,
+30/04/23,TOLASS,Aves,Passeriformes,Tyrannidae,Tolmomyias,Tolmomyias assimilis,Tolmomyias assimilis,Yellow-margined Flatbill,Herbivore,Mixed-low,LC,
+30/04/23,TOLPOL,Aves,Passeriformes,Tyrannidae,Tolmomyias,Tolmomyias poliocephalus,Tolmomyias poliocephalus,Grey-crowned Flatbill,Herbivore,Mixed-low,LC,
+30/04/23,TYRELA,Aves,Passeriformes,Tyrannidae,Tyrannulus,Tyrannulus elatus,Tyrannulus elatus,Yellow-crowned Tyrannulet,Herbivore,Mixed-low,LC,
+30/04/23,ZIMGRA,Aves,Passeriformes,Tyrannidae,Zimmerius,Zimmerius gracilipes,Zimmerius gracilipes,Slender-footed Tyrannulet,Herbivore,Mixed-low,LC,Range potentially overlaps. IUCN shows range extends to northeast corner of ecuador. 
+30/04/23,HYLHYP,Aves,Passeriformes,Vireonidae,Hylophilus,Hylophilus hypoxanthus,Hylophilus hypoxanthus,Dusky-capped Greenlet,Herbivore,Mixed-low,LC,
+30/04/23,HYLOCH,Aves,Passeriformes,Vireonidae,Tunchiornis,Tunchiornis ochraceiceps,Tunchiornis ochraceiceps,Tawny-crowned Greenlet,Herbivore,Mixed-low,LC,Formerly Hylophilus. 
+30/04/23,VIRFLA,Aves,Passeriformes,Vireonidae,Vireo,Vireo flavoviridis,Vireo flavoviridis,Yellow-green Vireo,Herbivore,Mixed-low,LC,
+30/04/23,VIROLI,Aves,Passeriformes,Vireonidae,Vireo,Vireo olivaceus,Vireo olivaceus,Red-eyed Vireo,Herbivore,Mixed-low,LC,
+30/04/23,CYAVIO,Aves,Passeriformes,Corvidae,Cyanocorax,Cyanocorax violaceus,Cyanocorax violaceus,Violaceous Jay,Herbivore,Mixed-low,LC,
+30/04/23,CAMTUR,Aves,Passeriformes,Troglodytidae,Campylorhynchus,Campylorhynchus turdinus,Campylorhynchus turdinus,Thrush-like Wren,Herbivore,0.5,LC,
+30/04/23,HENLEU,Aves,Passeriformes,Troglodytidae,Henicorhina,Henicorhina leucosticta,Henicorhina leucosticta,White-breasted Wood-wren,Herbivore,0.5,LC,
+30/04/23,MICMAR,Aves,Passeriformes,Troglodytidae,Microcerculus,Microcerculus marginatus,Microcerculus marginatus,Southern Nightingale-wren,Herbivore,0.5,LC,
+30/04/23,THRCOR,Aves,Passeriformes,Troglodytidae,Pheugopedius,Pheugopedius coraya,Pheugopedius coraya,Coraya Wren,Herbivore,0.5,LC,Formerly Thryothorus
+30/04/23,MICCIN,Aves,Passeriformes,Polioptilidae,Microbates,Microbates cinereiventris,Microbates cinereiventris,Tawny-faced Gnatwren,Herbivore,1,LC,Uncertain on if range overlaps Tiputini. 
+30/04/23,POLPLU,Aves,Passeriformes,Polioptilidae,Polioptila,Polioptila plumbea,Polioptila plumbea,Tropical Gnatcatcher,Herbivore,1,LC,
+30/04/23,RAMMEL,Aves,Passeriformes,Polioptilidae,Ramphocaenus,Ramphocaenus melanurus,Ramphocaenus melanurus,Long-billed Gnatwren,Herbivore,1,LC,
+30/04/23,CATMIN,Aves,Passeriformes,Turdidae,Catharus,Catharus minimus,Catharus minimus,Grey-cheeked Thrush,Herbivore,0.5,LC,Breeding range
+30/04/23,CATUST,Aves,Passeriformes,Turdidae,Catharus,Catharus ustulatus,Catharus ustulatus,Swainson's Thrush,Herbivore,0.5,LC,Range map on IUCN appears incorrect. Confirmed on e-bird
+30/04/23,TURALB,Aves,Passeriformes,Turdidae,Turdus,Turdus albicollis,Turdus albicollis,White-necked Thrush,Herbivore,0.5,LC,
+30/04/23,TURLAW,Aves,Passeriformes,Turdidae,Turdus,Turdus lawrencii,Turdus lawrencii,Lawrence's Thrush,Herbivore,0.5,LC,
+30/04/23,EUPCRY,Aves,Passeriformes,Fringillidae,Euphonia,Euphonia chrysopasta,Euphonia chrysopasta,White-lored Euphonia,Herbivore,1,LC,
+30/04/23,EUPLAN,Aves,Passeriformes,Fringillidae,Euphonia,Euphonia laniirostris,Euphonia laniirostris,Thick-billed Euphonia,Herbivore,1,LC,
+30/04/23,EUPRUF,Aves,Passeriformes,Fringillidae,Euphonia,Euphonia rufiventris,Euphonia rufiventris,Rufous-bellied Euphonia,Herbivore,1,LC,
+30/04/23,EUPXAN,Aves,Passeriformes,Fringillidae,Euphonia,Euphonia xanthogaster,Euphonia xanthogaster,Orange-bellied Euphonia,Herbivore,1,LC,
+30/04/23,CACCEL,Aves,Passeriformes,Icteridae,Cacicus,Cacicus cela,Cacicus cela,Yellow-rumped Cacique,Herbivore,1,LC,
+30/04/23,CLYOSE,Aves,Passeriformes,Icteridae,Cacicus,Cacicus oseryi,Cacicus oseryi,Casqued Oropendola,Herbivore,1,LC,Formerly Clypicterus.
+30/04/23,PSAANG,Aves,Passeriformes,Icteridae,Psarocolius,Psarocolius angustifrons,Psarocolius angustifrons,Russet-backed Oropendola,Herbivore,1,LC,
+30/04/23,PSAVIR,Aves,Passeriformes,Icteridae,Psarocolius,Psarocolius viridis,Psarocolius viridis,Green Oropendola,Herbivore,1,LC,
+30/04/23,PSADEC,Aves,Passeriformes,Icteridae,Psarocolius,Psarocolius decumanus,Psarocolius decumanus,Crested Oropendola,Herbivore,1,LC,
+30/04/23,PSAYUR,Aves,Passeriformes,Icteridae,Psarocolius,Psarocolius bifasciatus,Psarocolius bifasciatus,Olive Oropendola,Herbivore,1,LC,"Formerly or alt. name, Amazonian oropendola"
+30/04/23,PHAFUL,Aves,Passeriformes,Parulidae,Myiothlypis,Myiothlypis fulvicauda,Myiothlypis fulvicauda,Buff-rumped Warbler,Herbivore,0,LC,Formerly Phaeothlypis.
+30/04/23,CYACYA,Aves,Passeriformes,Cardinalidae,Cyanoloxia,Cyanoloxia cyanoides,Cyanoloxia cyanoides,Blue-black Grosbeak,Herbivore,1,LC,IUCN and e-bird range map show range is only in western ecuador. 
+30/04/23,HABRUB,Aves,Passeriformes,Cardinalidae,Habia,Habia rubica,Habia rubica,Red-crowned Ant-tanager,Herbivore,1,LC,
+30/04/23,CHLSPI,Aves,Passeriformes,Thraupidae,Chlorophanes,Chlorophanes spiza,Chlorophanes spiza,Green Honeycreeper,Herbivore,1,LC,
+30/04/23,CYACAE,Aves,Passeriformes,Thraupidae,Cyanerpes,Cyanerpes caeruleus,Cyanerpes caeruleus,Purple Honeycreeper,Herbivore,1,LC,
+30/04/23,DACCAY,Aves,Passeriformes,Thraupidae,Dacnis,Dacnis cayana,Dacnis cayana,Blue Dacnis,Herbivore,1,LC,
+30/04/23,DACFLA,Aves,Passeriformes,Thraupidae,Dacnis,Dacnis flaviventer,Dacnis flaviventer,Yellow-bellied Dacnis,Herbivore,1,LC,
+30/04/23,HEMFLA,Aves,Passeriformes,Thraupidae,Hemithraupis,Hemithraupis flavicollis,Hemithraupis flavicollis,Yellow-backed Tanager,Herbivore,1,LC,
+30/04/23,LANFUL,Aves,Passeriformes,Thraupidae,Lanio,Lanio fulvus,Lanio fulvus,Fulvous Shrike-tanager,Herbivore,1,LC,
+30/04/23,PITGRO,Aves,Passeriformes,Thraupidae,Saltator,Saltator grossus,Saltator grossus,Slate-colored Grosbeak,Herbivore,1,LC,
+30/04/23,SALMAX,Aves,Passeriformes,Thraupidae,Saltator,Saltator maximus,Saltator maximus,Buff-throated Saltator,Herbivore,1,LC,
+30/04/23,TANMEX,Aves,Passeriformes,Thraupidae,Tangara,Tangara mexicana,Tangara mexicana,Turquoise Tanager,Herbivore,1,LC,
+30/04/23,TANNIG,Aves,Passeriformes,Thraupidae,Tangara,Tangara nigrocincta,Tangara nigrocincta,Masked Tanager,Herbivore,1,LC,
+30/04/23,TANSCH,Aves,Passeriformes,Thraupidae,Tangara,Tangara schrankii,Tangara schrankii,Green-and-gold Tanager,Herbivore,1,LC,
+30/04/23,TANVEL,Aves,Passeriformes,Thraupidae,Tangara,Tangara velia,Tangara velia,Opal-rumped tanager,Herbivore,1,LC,
+30/04/23,TIGLIN,Aves,Pelecaniformes,Ardeidae,Tigrisoma,Tigrisoma lineatum,Tigrisoma lineatum,Rufescent tiger-heron,Herbivore,Terrestrial,LC,
+30/04/23,GALALB,Aves,Piciformes,Galbulidae,Galbula,Galbula albirostris,Galbula albirostris,Yellow-billed jacamar,Herbivore,Mixed-low,LC,
+30/04/23,JACAUR,Aves,Piciformes,Galbulidae,Jacamerops,Jacamerops aureus,Jacamerops aureus,Great jacamar,Herbivore,Mixed-low,LC,
+30/04/23,BUCCAP,Aves,Piciformes,Bucconidae,Bucco,Bucco capensis,Bucco capensis,Collared puffbird,Herbivore,Mixed-low,LC,
+30/04/23,MALFUS,Aves,Piciformes,Bucconidae,Malacoptila,Malacoptila fusca,Malacoptila fusca,White-chested puffbird,Herbivore,Mixed-low,LC,
+30/04/23,MONMOR,Aves,Piciformes,Bucconidae,Monasa,Monasa morphoeus,Monasa morphoeus,White-fronted nunbird,Herbivore,Mixed-low,LC,
+30/04/23,NONBRU,Aves,Piciformes,Bucconidae,Nonnula,Nonnula brunnea,Nonnula brunnea,Brown nunlet,Herbivore,Mixed-low,LC,
+30/04/23,NOTMAC,Aves,Piciformes,Bucconidae,Notharchus,Notharchus hyperrhynchus,Notharchus hyperrhynchus,White-necked puffbird,Herbivore,Mixed-low,LC,
+30/04/23,CAPNIG,Aves,Piciformes,Capitonidae,Capito,Capito auratus,Capito auratus,Gilded barbet,Herbivore,Mixed-low,LC,
+30/04/23,EUBRIC,Aves,Piciformes,Capitonidae,Eubucco,Eubucco richardsoni,Eubucco richardsoni,Lemon-throated barbet,Herbivore,Mixed-low,LC,
+30/04/23,PTEAZA,Aves,Piciformes,Ramphastidae,Pteroglossus,Pteroglossus azara,Pteroglossus azara,Ivory-billed araçari,Herbivore,Mixed-low,LC,
+30/04/23,PTEPLU,Aves,Piciformes,Ramphastidae,Pteroglossus,Pteroglossus pluricinctus,Pteroglossus pluricinctus,Many-banded araçari,Herbivore,Mixed-low,LC,
+30/04/23,RAMTUC,Aves,Piciformes,Ramphastidae,Ramphastos,Ramphastos tucanus,Ramphastos tucanus,White-throated toucan,Herbivore,Mixed-low,LC,Range map appears wrong in IUCN. Confirmed with e-bird.
+30/04/23,RAMVIT,Aves,Piciformes,Ramphastidae,Ramphastos,Ramphastos vitellinus,Ramphastos vitellinus,Channel-billed toucan,Herbivore,Mixed-low,LC,Range map appears wrong in IUCN. Confirmed with e-bird. Listed as vulnerable on EOL. 
+30/04/23,SELREI,Aves,Piciformes,Ramphastidae,Selenidera,Selenidera reinwardtii,Selenidera reinwardtii,Red-billed toucanet,Herbivore,Mixed-low,LC,
+30/04/23,CAMMEL,Aves,Piciformes,Picidae,Campephilus,Campephilus melanoleucos,Campephilus melanoleucos,Crimson-crested woodpecker,Herbivore,Mixed-low,LC,
+30/04/23,CAMRUB,Aves,Piciformes,Picidae,Campephilus,Campephilus rubricollis,Campephilus rubricollis,Red-necked woodpecker,Herbivore,Mixed-low,LC,
+30/04/23,CELELE,Aves,Piciformes,Picidae,Celeus,Celeus elegans,Celeus elegans,Chestnut woodpecker,Herbivore,Mixed-low,LC,
+30/04/23,CELFLA,Aves,Piciformes,Picidae,Celeus,Celeus flavus,Celeus flavus,Cream-colored woodpecker,Herbivore,Mixed-low,LC,
+30/04/23,CELGRA,Aves,Piciformes,Picidae,Celeus,Celeus grammicus,Celeus grammicus,Waved woodpecker,Herbivore,Mixed-low,LC,
+30/04/23,CELTOR,Aves,Piciformes,Picidae,Celeus,Celeus torquatus,Celeus torquatus,Ringed woodpecker,Herbivore,Mixed-low,NT,Range map appears wrong on IUCN. Confirmed with e-bird.
+30/04/23,DRYLIN,Aves,Piciformes,Picidae,Hylatomus,Hylatomus lineatus,Hylatomus lineatus,Lineated woodpecker,Herbivore,Mixed-low,LC,Formerly Dryocopus
+30/04/23,MELCRU,Aves,Piciformes,Picidae,Melanerpes,Melanerpes cruentatus,Melanerpes cruentatus,Yellow-tufted Woodpecker,Herbivore,Mixed-low,LC,
+30/04/23,PICCHR,Aves,Piciformes,Picidae,Piculus,Piculus chrysochloros,Piculus chrysochloros,Golden-green Woodpecker,Herbivore,Mixed-low,LC,
+30/04/23,PICFLA,Aves,Piciformes,Picidae,Piculus,Piculus flavigula,Piculus flavigula,Yellow-throated Woodpecker,Herbivore,Mixed-low,LC,
+30/04/23,VENAFF,Aves,Piciformes,Picidae,Veniliornis,Veniliornis affinis,Veniliornis affinis,Red-stained Woodpecker,Herbivore,Mixed-low,LC,
+30/04/23,AMAAMA,Aves,Psittaciformes,Psittacidae,Amazona,Amazona amazonica,Amazona amazonica,Orange-winged Amazon,Herbivore,Mixed-low,LC,
+30/04/23,AMAFAR,Aves,Psittaciformes,Psittacidae,Amazona,Amazona farinosa,Amazona farinosa,Southern Mealy Amazon,Herbivore,Mixed-low,LC,
+30/04/23,AMAOCH,Aves,Psittaciformes,Psittacidae,Amazona,Amazona ochrocephala,Amazona ochrocephala,Yellow-crowned Amazon,Herbivore,Mixed-low,LC,
+30/04/23,ARAARA,Aves,Psittaciformes,Psittacidae,Ara,Ara ararauna,Ara ararauna,Blue-and-yellow Macaw,Herbivore,Mixed-low,LC,
+30/04/23,ARAMAC,Aves,Psittaciformes,Psittacidae,Ara,Ara macao,Ara macao,Scarlet Macaw,Herbivore,Mixed-low,LC,
+30/04/23,ARASEV,Aves,Psittaciformes,Psittacidae,Ara,Ara severa,Ara severa,Chestnut-fronted Macaw,Herbivore,Mixed-low,LC,
+30/04/23,ARALEU,Aves,Psittaciformes,Psittacidae,Psittacara,Psittacara leucophthalmus,Psittacara leucophthalmus,White-eyed Parakeet,Herbivore,Mixed-low,LC,Formerly Aratinga
+30/04/23,ARAWED,Aves,Psittaciformes,Psittacidae,Aratinga,Aratinga weddellii,Aratinga weddellii,Dusky-headed Parakeet,Herbivore,Mixed-low,LC,
+30/04/23,BROCYA,Aves,Psittaciformes,Psittacidae,Brotogeris,Brotogeris cyanoptera,Brotogeris cyanoptera,Cobalt-winged Parakeet,Herbivore,Mixed-low,LC,
+30/04/23,PIOMEL,Aves,Psittaciformes,Psittacidae,Pionites,Pionites melanocephalus,Pionites melanocephalus,Black-headed Parrot,Herbivore,Mixed-low,LC,Formerly Pionites melanocephala
+30/04/23,PIOMEN,Aves,Psittaciformes,Psittacidae,Pionus,Pionus menstruus,Pionus menstruus,Blue-headed Parrot,Herbivore,Mixed-low,LC,
+30/04/23,CICHUH,Aves,Strigiformes,Strigidae,Ciccaba,Ciccaba huhula,Ciccaba huhula,Black-banded owl,Herbivore,Mixed-low,LC,
+30/04/23,CICVIR,Aves,Strigiformes,Strigidae,Ciccaba,Ciccaba virgata,Ciccaba virgata,Mottled owl,Herbivore,Mixed-low,LC,
+30/04/23,GLABRA,Aves,Strigiformes,Strigidae,Glaucidium,Glaucidium brasilianum,Glaucidium brasilianum,Ferruginous pygmy-owl,Herbivore,Mixed-low,LC,
+30/04/23,LOPCRI,Aves,Strigiformes,Strigidae,Lophostrix,Lophostrix cristata,Lophostrix cristata,Crested owl,Herbivore,Mixed-low,LC,
+30/04/23,OTUWAT,Aves,Strigiformes,Strigidae,Otus,Otus watsoni,Otus watsoni,Tawny-bellied screech-owl,Herbivore,Mixed-low,LC,
+30/04/23,PULPER,Aves,Strigiformes,Strigidae,Pulsatrix,Pulsatrix perspicillata,Pulsatrix perspicillata,Spectacled owl,Herbivore,Mixed-low,LC,
+30/04/23,CRYCIN,Aves,Struthioniformes,Tinamidae,Crypturellus,Crypturellus cinereous,Crypturellus cinereous,Cinereous tinamou,Herbivore,Terrestrial,LC,
+30/04/23,CRYSOU,Aves,Struthioniformes,Tinamidae,Crypturellus,Crypturellus soui,Crypturellus soui,Little tinamou,Herbivore,Terrestrial,LC,
+30/04/23,CRYUND,Aves,Struthioniformes,Tinamidae,Crypturellus,Crypturellus undulatus,Crypturellus undulatus,Undulated tinamou,Herbivore,Terrestrial,LC,
+30/04/23,CRYVAR,Aves,Struthioniformes,Tinamidae,Crypturellus,Crypturellus variegatus,Crypturellus variegatus,Variegated tinamou,Herbivore,Terrestrial,LC,
+30/04/23,TINGUT,Aves,Struthioniformes,Cracidae,Tinamus,Tinamus guttatus,Tinamus guttatus,White-throated tinamou,Herbivore,Terrestrial,NT,
+30/04/23,TINMAJ,Aves,Struthioniformes,Cracidae,Tinamus,Tinamus major,Tinamus major,Great tinamou,Herbivore,Terrestrial,LC,"89% frugivory - Erard et al., 2007"
+30/04/23,CRYBAR,Aves,Tinamiformes,Tinamidae,Crypturellus,Crypturellus bartletti,Crypturellus bartletti,Bartlett's tinamou,Herbivore,Terrestrial,LC,
+30/04/23,TROMEL,Aves,Trogoniformes,Trogonidae,Trogon,Trogon melanurus,Trogon melanurus,Black-tailed trogon,Herbivore,Mixed-low,LC,
+30/04/23,TRORUF,Aves,Trogoniformes,Trogonidae,Trogon,Trogon rufus,Trogon rufus,Black-throated trogon,Herbivore,Mixed-low,LC,
+30/04/23,TROVIO,Aves,Trogoniformes,Trogonidae,Trogon,Trogon violaceus,Trogon violaceus,Violaceous trogon,Herbivore,Mixed-low,LC,
+30/04/23,TROVIR,Aves,Trogoniformes,Trogonidae,Trogon,Trogon viridis,Trogon viridis,Green-backed trogon,Herbivore,Mixed-low,LC,
+30/04/23,MAZAME,Mammalia,Artiodactyla,Cervidae,Mazama,Mazama americana,Mazama americana,Red broket deer,Herbivore,Terrestrial,DD,
+30/04/23,MAZNEM,Mammalia,Artiodactyla,Cervidae,Mazama,Mazama nemorivaga,Mazama gouazoubira,Amazonian brown broket deer,Herbivore,Terrestrial,LC,
+30/04/23,PECTAJ,Mammalia,Artiodactyla,Tayassuidae,Pecari,Pecari tajacu,Pecari tajacu,Collared peccary,Herbivore,Terrestrial,LC,
+30/04/23,TAYPEC,Mammalia,Artiodactyla,Tayassuidae,Tayassu,Tayassu pecari,Tayassu pecari,White lipped peccary,Herbivore,Terrestrial,VU,
+30/04/23,ATEMIC,Mammalia,Carnivora,Canidae,Atelocynus,Atelocynus microtis,Atelocynus microtis,Short-eared dog,Herbivore,Terrestrial,NT,
+30/04/23,LEOPAR,Mammalia,Carnivora,Felidae,Leopardus,Leopardus pardalis,Leopardus pardalis,Ocelot,Carnivore,Mixed,LC,
+30/04/23,LEOWIE,Mammalia,Carnivora,Felidae,Leopardus,Leopardus wiedii,Leopardus wiedii,Margay,Herbivore,Mixed,NT,
+30/04/23,PANONC,Mammalia,Carnivora,Felidae,Panthera,Panthera onca,Panthera onca,Jaguar,Carnivore,Mixed,NT,
+30/04/23,PUMCON,Mammalia,Carnivora,Felidae,Puma,Puma concolor,Puma concolor,Puma,Carnivore,Mixed,LC,
+30/04/23,HERYAG,Mammalia,Carnivora,Felidae,Herpailurus,Herpailurus yagouaroundi,Puma yagouaroundi,Jaguarundi,Carnivore,Mixed,LC,previously in the genus Puma
+30/04/23,LEOTIG,Mammalia,Carnivora,Felidae,Leopardus,Leopardus tigrinus,Leopardus tigrinus,Oncilla,Carnivore,Mixed,VU,Added by me as was not in the list extracted from SWING et al and the IUCN search
+30/04/23,EIRBAR,Mammalia,Carnivora,Procyonidae,Eira,Eira barbara,Eira barbara,Tayra,Herbivore,Mixed,LC,
+30/04/23,NASNAS,Mammalia,Carnivora,Procyonidae,Nasua,Nasua nasua,Nasua nasua,South American coati,Omnivore,Mixed,LC,
+30/04/23,POTFLA,Mammalia,Carnivora,Procyonidae,Potos,Potos flavus,Potos flavus,Kinkajou,Omnivore,Mixed,LC,
+30/04/23,PROCAN,Mammalia,Carnivora,Procyonidae,Procyon,Procyon cancrivorus,Procyon cancrivorus,Crab-eating racoon,Herbivore,Terrestrial,LC,
+10/05/23,BASALE,Mammalia,Carnivora,Procyonidae,Bassaricyon,Bassaricyon alleni,Bassaricyon alleni,Eastern lowland olingo,Omnivore,Mixed,LC,Added by me was not in here anywhere oddly
+01/05/23,CENCEN,Mammalia,Chiroptera,Emballonuridae,Centronycteris,Centronycteris centralis,Centronycteris centralis,Thomas's Shaggy Bat,Herbivore,NA,LC,
+01/05/23,CORBRE,Mammalia,Chiroptera,Emballonuridae,Cormura,Cormura brevirostris,Cormura brevirostris,Chestnut Sac-winged Bat,Herbivore,NA,LC,
+01/05/23,DICSCU,Mammalia,Chiroptera,Emballonuridae,Diclidurus,Diclidurus scutatus,Diclidurus scutatus,Lesser Ghost Bat,Herbivore,NA,LC,"Only small portion of range in Ecuador, unsure if reaches tiputini. "
+01/05/23,PERLEU,Mammalia,Chiroptera,Emballonuridae,Peropteryx,Peropteryx leucoptera,Peropteryx leucoptera,White-winged Dog-like Bat,Herbivore,NA,LC,Range map on IUCN and GBIF do no extend to Ecuador
+01/05/23,PERMAC,Mammalia,Chiroptera,Emballonuridae,Peropteryx,Peropteryx macrotis,Peropteryx macrotis,Lesser Dog-like Bat,Herbivore,NA,LC,
+01/05/23,PERPAL,Mammalia,Chiroptera,Emballonuridae,Peropteryx,Peropteryx pallidoptera,Peropteryx pallidoptera,Pale-winged Dog-like Bat,Herbivore,NA,DD,"Small portion of range in eastern ecuador, maybe tiputini"
+01/05/23,RHYNAS,Mammalia,Chiroptera,Emballonuridae,Rhynchonycteris,Rhynchonycteris naso,Rhynchonycteris naso,Brazilian Long-nosed Bat,Herbivore,NA,LC,
+01/05/23,SACBIL,Mammalia,Chiroptera,Emballonuridae,Saccopteryx,Saccopteryx bilineata,Saccopteryx bilineata,Greater Sac-winged Bat,Herbivore,NA,LC,
+01/05/23,SACLEP,Mammalia,Chiroptera,Emballonuridae,Saccopteryx,Saccopteryx leptura,Saccopteryx leptura,Lesser Sac-winged Bat,Herbivore,NA,LC,
+01/05/23,DESROT,Mammalia,Chiroptera,Phyllostomidae,Desmodus,Desmodus rotundus,Desmodus rotundus,Vampire Bat,Herbivore,NA,LC,
+01/05/23,DIPECA,Mammalia,Chiroptera,Phyllostomidae,Diphylla,Diphylla ecaudata,Diphylla ecaudata,Hairy-legged Vampire Bat,Herbivore,NA,LC,
+01/05/23,ANOAEQ,Mammalia,Chiroptera,Phyllostomidae,Anoura,Anoura aequatoris,Anoura aequatoris,Equatorial tailless bat,Herbivore,NA,LC,Unsure if range crosses into tiputini. 
+01/05/23,ANOCAU,Mammalia,Chiroptera,Phyllostomidae,Anoura,Anoura caudifer,Anoura caudifer,Tailed Tailless Bat,Herbivore,NA,LC,
+01/05/23,CHOMIN,Mammalia,Chiroptera,Phyllostomidae,Choeroniscus,Choeroniscus minor,Choeroniscus minor,Lesser Long-tailed Bat,Herbivore,NA,LC,"Range has small portion in eastern ecuador, unsure if tiputini. "
+01/05/23,GLOSOR,Mammalia,Chiroptera,Phyllostomidae,Glossophaga,Glossophaga soricina,Glossophaga soricina,Pallas's long-tongued bat,Herbivore,NA,LC,
+01/05/23,LICDEG,Mammalia,Chiroptera,Phyllostomidae,Lichonycteris,Lichonycteris degener,Lichonycteris degener,Pale brown long-nosed bat,Herbivore,NA,LC,"Range in eastern ecuador, unsure if tiputini"
+01/05/23,HSUPAT,Mammalia,Chiroptera,Phyllostomidae,Hsunycteris,Hsunycteris pattoni,Hsunycteris pattoni,Patton's long-tongued bat,Herbivore,NA,LC,IUCN does not have species listed. GBIF shows few registers on map. Maybe tiputini.
+01/05/23,HSUTHO,Mammalia,Chiroptera,Phyllostomidae,Hsunycteris,Hsunycteris thomasi,Hsunycteris thomasi,Thomas's nectar bat,Herbivore,NA,NA,IUCN does not list species. GBIF confirms range in Ecuador
+01/05/23,LIOSPU,Mammalia,Chiroptera,Phyllostomidae,Lionycteris,Lionycteris spurrelli,Lionycteris spurrelli,Chestnut Long-tongued Bat,Herbivore,NA,LC,
+01/05/23,LAMBRA,Mammalia,Chiroptera,Phyllostomidae,Lampronycteris,Lampronycteris brachyotis,Lampronycteris brachyotis,Yellow-throated Big-eared Bat,Herbivore,NA,LC,IUCN and GBIF do not show range in ecuador. 
+01/05/23,MICHIR,Mammalia,Chiroptera,Phyllostomidae,Micronycteris,Micronycteris hirsuta,Micronycteris hirsuta,Crested Big-eared Bat,Herbivore,NA,LC,
+01/05/23,MICMEG,Mammalia,Chiroptera,Phyllostomidae,Micronycteris,Micronycteris megalotis,Micronycteris megalotis,Brazilian Big-eared Bat ,Herbivore,NA,LC,
+01/05/23,MICMIN,Mammalia,Chiroptera,Phyllostomidae,Micronycteris,Micronycteris minuta,Micronycteris minuta,White-bellied big-eared bat,Herbivore,NA,LC,
+01/05/23,LONAUR,Mammalia,Chiroptera,Phyllostomidae,Lonchorhina,Lonchorhina aurita,Lonchorhina aurita,Common Sword-nosed Bat,Herbivore,NA,LC,
+01/05/23,CHRAUR,Mammalia,Chiroptera,Phyllostomidae,Chrotopterus,Chrotopterus auritus,Chrotopterus auritus,Woolly FALSEVampire Bat,Herbivore,NA,LC,
+01/05/23,GARCRE,Mammalia,Chiroptera,Phyllostomidae,Gardnerycteris,Gardnerycteris crenulatum,Gardnerycteris crenulatum,Striped Hairy-nosed Bat,Herbivore,NA,LC,
+01/05/23,LOPBRA,Mammalia,Chiroptera,Phyllostomidae,Lophostoma,Lophostoma brasiliense,Lophostoma brasiliense,Pygmy round-eared bat,Herbivore,NA,LC,
+01/05/23,LOPCAR,Mammalia,Chiroptera,Phyllostomidae,Lophostoma,Lophostoma carrikeri,Lophostoma carrikeri,Carriker's Round-eared Bat,Herbivore,NA,LC,"Range does not extend into ecuador on IUCN, potentially one register on GBIF"
+01/05/23,LOPSIL,Mammalia,Chiroptera,Phyllostomidae,Lophostoma,Lophostoma silvicolum,Lophostoma silvicolum,White-throated Round-eared Bat,Herbivore,NA,LC,
+01/05/23,MACMAC,Mammalia,Chiroptera,Phyllostomidae,Macrophyllum,Macrophyllum macrophyllum,Macrophyllum macrophyllum,Long-legged bat,Herbivore,NA,LC,
+01/05/23,PHYSTE,Mammalia,Chiroptera,Phyllostomidae,Phylloderma,Phylloderma stenops,Phylloderma stenops,Pale-faced bat,Herbivore,NA,LC,
+01/05/23,PHYELO,Mammalia,Chiroptera,Phyllostomidae,Phyllostomus,Phyllostomus elongatus,Phyllostomus elongatus,Lesser spear-nosed bat,Herbivore,NA,LC,
+01/05/23,PHYHAS,Mammalia,Chiroptera,Phyllostomidae,Phyllostomus,Phyllostomus hastatus,Phyllostomus hastatus,Greater spear-nosed bat,Herbivore,NA,LC,
+01/05/23,TONSAU,Mammalia,Chiroptera,Phyllostomidae,Tonatia,Tonatia saurophila,Tonatia saurophila,Stripe-headed Round-eared Bat,Herbivore,NA,LC,Range potentially in Tiputini
+01/05/23,TRACIR,Mammalia,Chiroptera,Phyllostomidae,Trachops,Trachops cirrhosis,Trachops cirrhosis,Fringe-lipped bat,Herbivore,NA,LC,
+01/05/23,VAMSPE,Mammalia,Chiroptera,Phyllostomidae,Vampyrum,Vampyrum spectrum,Vampyrum spectrum,Spectral Bat,Herbivore,NA,NT,
+01/05/23,GLYDAV,Mammalia,Chiroptera,Phyllostomidae,Glyphonycteris,Glyphonycteris daviesi,Glyphonycteris daviesi,Davies's big-eared bat,Herbivore,NA,LC,
+01/05/23,GLYNIC,Mammalia,Chiroptera,NA,Glyphonycteris,Glyphonycteris nicefori,Glyphonycteris nicefori,NA,Herbivore,NA,NA,
+01/05/23,CARBRE,Mammalia,Chiroptera,Phyllostomidae,Carollia,Carollia brevicauda,Carollia brevicauda,Silky Short-tailed Bat,Herbivore,NA,LC,
+01/05/23,CARCAS,Mammalia,Chiroptera,Phyllostomidae,Carollia,Carollia castanea,Carollia castanea,Chestnut Short-tailed Bat,Herbivore,NA,LC,
+01/05/23,CARPER,Mammalia,Chiroptera,Phyllostomidae,Carollia,Carollia perspicillata,Carollia perspicillata,Seba's Short-tailed Bat,Herbivore,NA,LC,
+01/05/23,RHIFIS,Mammalia,Chiroptera,Phyllostomidae,Rhinophylla,Rhinophylla fischerae,Rhinophylla fischerae,Fischer's Little Fruit Bat,Herbivore,NA,LC,
+01/05/23,RHIPUM,Mammalia,Chiroptera,Phyllostomidae,Rhinophylla,Rhinophylla pumilio,Rhinophylla pumilio,Dwarf Little Fruit Bat,Herbivore,NA,LC,
+01/05/23,ARTAND,Mammalia,Chiroptera,Phyllostomidae,Artibeus,Artibeus anderseni,Artibeus anderseni,Andersen's Fruit-eating Bat,Herbivore,NA,LC,
+01/05/23,ARTCON,Mammalia,Chiroptera,Phyllostomidae,Artibeus,Artibeus concolor,Artibeus concolor,Brown Fruit-eating Bat,Herbivore,NA,LC,Range not in ecuador
+01/05/23,ARTGLA,Mammalia,Chiroptera,Phyllostomidae,Artibeus,Artibeus glaucus,Artibeus glaucus,Silver Fruit-eating Bat,Herbivore,NA,LC,
+01/05/23,ARTGNO,Mammalia,Chiroptera,Phyllostomidae,Artibeus,Artibeus gnomus,Artibeus gnomus,Dwarf Fruit-eating Bat,Herbivore,NA,LC,
+01/05/23,ARTLIT,Mammalia,Chiroptera,Phyllostomidae,Artibeus,Artibeus lituratus,Artibeus lituratus,Great Fruit-eating Bat,Herbivore,NA,LC,
+01/05/23,ARTOBS,Mammalia,Chiroptera,Phyllostomidae,Artibeus,Artibeus obscurus,Artibeus obscurus,Dark Fruit-eating Bat,Herbivore,NA,LC,
+01/05/23,ARTPLA,Mammalia,Chiroptera,Phyllostomidae,Artibeus,Artibeus planirostris,Artibeus planirostris,Flat-faced Fruit-eating Bat,Herbivore,NA,LC,Range on IUCN barely into ecuador.
+01/05/23,CHISAL,Mammalia,Chiroptera,Phyllostomidae,Chiroderma,Chiroderma salvini,Chiroderma salvini,Salvin's Big-eyed Bat,Herbivore,NA,LC,
+01/05/23,CHITRI,Mammalia,Chiroptera,Phyllostomidae,Chiroderma,Chiroderma trinitatum,Chiroderma trinitatum,Little Big-eyed Bat,Herbivore,NA,LC,
+01/05/23,CHIVIL,Mammalia,Chiroptera,Phyllostomidae,Chiroderma,Chiroderma villosum,Chiroderma villosum,Hairy Big-eyed Bat,Herbivore,NA,LC,
+01/05/23,ENCHAR,Mammalia,Chiroptera,Phyllostomidae,Enchisthenes,Enchisthenes hartii,Enchisthenes hartii,Velvety Fruit-eating Bat,Herbivore,NA,LC,Part of eastern ecuador not in range but all of west in. Unsure of tiputini
+01/05/23,MESMAC,Mammalia,Chiroptera,Phyllostomidae,Mesophylla,Mesophylla macconnelli,Mesophylla macconnelli,MacConnell's Bat,Herbivore,NA,LC,
+01/05/23,PLAANG,Mammalia,Chiroptera,Phyllostomidae,Platyrrhinus,Platyrrhinus angustirostris,Platyrrhinus angustirostris,Slender Broad-nosed Bat,Herbivore,NA,LC,"Small portion of range within eastern ecuador, unsure of tiputini"
+01/05/23,PLABRA,Mammalia,Chiroptera,Phyllostomidae,Platyrrhinus,Platyrrhinus brachycephalus,Platyrrhinus brachycephalus,Short-headed broad-nosed bat,Herbivore,NA,LC,
+01/05/23,PLAFUS,Mammalia,Chiroptera,Phyllostomidae,Platyrrhinus,Platyrrhinus fusciventris,Platyrrhinus fusciventris,Brown-bellied Broad-nosed Bat,Herbivore,NA,LC,Range potentially in Tiputini. 
+01/05/23,PLAINC,Mammalia,Chiroptera,Phyllostomidae,Platyrrhinus,Platyrrhinus incarum,Platyrrhinus incarum,Incan Broad-nosed Bat,Herbivore,NA,LC,
+01/05/23,PLAINF,Mammalia,Chiroptera,Phyllostomidae,Platyrrhinus,Platyrrhinus infuscus,Platyrrhinus infuscus,Buffy Broad-nosed Bat,Herbivore,NA,LC,Range potentially in tiputini
+01/05/23,SPHTOX,Mammalia,Chiroptera,Phyllostomidae,Sphaeronycteris,Sphaeronycteris toxophyllum,Sphaeronycteris toxophyllum,Visored Bat,Herbivore,NA,LC,Range potentially in tiputini
+01/05/23,STULIL,Mammalia,Chiroptera,Phyllostomidae,Sturnira,Sturnira lilium,Sturnira lilium,Little Yellow-shouldered Bat,Herbivore,NA,LC,Not in range on IUCN. GBIF has records in ecuador
+01/05/23,STUMAG,Mammalia,Chiroptera,Phyllostomidae,Sturnira,Sturnira magna,Sturnira magna,Greater yellow-shouldered bat,Herbivore,NA,LC,
+01/05/23,STUTIL,Mammalia,Chiroptera,Phyllostomidae,Sturnira,Sturnira tildae,Sturnira tildae,Tilda's Yellow-shouldered Bat,Herbivore,NA,LC,
+01/05/23,UROBIL,Mammalia,Chiroptera,Phyllostomidae,Uroderma,Uroderma bilobatum,Uroderma bilobatum,Common Tent-making Bat,Herbivore,NA,LC,
+01/05/23,UROMAG,Mammalia,Chiroptera,Phyllostomidae,Uroderma,Uroderma magnirostrum,Uroderma magnirostrum,Brown tent-making bat,Herbivore,NA,LC,
+01/05/23,VAMTHY,Mammalia,Chiroptera,Phyllostomidae,Vampyressa,Vampyressa thyone,Vampyressa thyone,Northern little yellow-eared bat,Herbivore,NA,LC,
+01/05/23,VAMBID,Mammalia,Chiroptera,Phyllostomidae,Vampyriscus,Vampyriscus bidens,Vampyriscus bidens,Bidentate Yellow-eared Bat,Herbivore,NA,LC,
+01/05/23,VAMCAR,Mammalia,Chiroptera,Phyllostomidae,Vampyrodes,Vampyrodes caraccioli,Vampyrodes caraccioli,Great Stripe-faced Bat,Herbivore,NA,LC,
+01/05/23,PTEPAR,Mammalia,Chiroptera,Mormoopidae,Pteronotus,Pteronotus parnellii,Pteronotus parnellii,Common Mustached Bat,Herbivore,NA,LC,Unsure if range in ecuador. IUCN and GBIF show different ranges. 
+01/05/23,NOCALB,Mammalia,Chiroptera,Noctilionidae,Noctilio,Noctilio albiventris,Noctilio albiventris,Lesser Bulldog Bat,Herbivore,NA,LC,
+01/05/23,NOCLEP,Mammalia,Chiroptera,Noctilionidae,Noctilio,Noctilio leporinus,Noctilio leporinus,Greater Bulldog Bat,Herbivore,NA,LC,
+01/05/23,FURHOR,Mammalia,Chiroptera,Furipteridae,Furipterus,Furipterus horrens,Furipterus horrens,Thumbless bat,Herbivore,NA,LC,Potentially in range of Tiputini
+01/05/23,THYDIS,Mammalia,Chiroptera,Thyropteridae,Thyroptera,Thyroptera discifera,Thyroptera discifera,Peters's Disk-winged Bat,Herbivore,NA,LC,Unsure if range in Tiputini. Map shows northeastern ecuador in range.
+01/05/23,THYLAV,Mammalia,Chiroptera,Thyropteridae,Thyroptera,Thyroptera lavali,Thyroptera lavali,LaVal's Disk-winged Bat,Herbivore,NA,DD,Unsure if range in Tiputini. Small range on IUCN and GBIF.
+01/05/23,THYTRI,Mammalia,Chiroptera,Thyropteridae,Thyroptera,Thyroptera tricolor,Thyroptera tricolor,Spix's Disk-winged Bat,Herbivore,NA,LC,
+01/05/23,CYNMAS,Mammalia,Chiroptera,Molossidae,Cynomops,Cynomops mastivus,Cynomops mastivus,Thomas's Dog-faced Bat,Herbivore,NA,NA,https://www.catalogueoflife.org/data/taxon/8Q88J
+01/05/23,CYNMIL,Mammalia,Chiroptera,Molossidae,Cynomops,Cynomops milleri,Cynomops milleri,NA,Herbivore,NA,LC,Potentially in range of tiputini
+01/05/23,EUMMAU,Mammalia,Chiroptera,Molossidae,Eumops,Eumops maurus,Eumops maurus,Guianan bonneted bat,Herbivore,NA,DD,Potentially in range of tiputini
+01/05/23,MOLTEM,Mammalia,Chiroptera,Molossidae,Molossops,Molossops temmincki,Molossops temmincki,Dwarf Dog-faced Bat,Herbivore,NA,LC,"Range in very eastern ecuador, possibly tiputini"
+01/05/23,MOLBON,Mammalia,Chiroptera,Molossidae,Molossus,Molossus bondae,Molossus bondae,Bonda mastiff bat,Herbivore,NA,LC,IUCN and GBIF range map only in eastern ecuador
+01/05/23,MOLCOI,Mammalia,Chiroptera,Molossidae,Molossus,Molossus coibensis,Molossus coibensis,Coiban Mastiff Bat,Herbivore,NA,LC,Range potentially in tiputini. 
+01/05/23,MOLMOL,Mammalia,Chiroptera,Molossidae,Molossus,Molossus molossus,Molossus molossus,Velvety free-tailed bat,Herbivore,NA,LC,
+01/05/23,MOLRUF,Mammalia,Chiroptera,Molossidae,Molossus,Molossus rufus,Molossus rufus,Black Free-tailed Bat ,Herbivore,NA,LC,
+01/05/23,NYCMAC,Mammalia,Chiroptera,Molossidae,Nyctinomops,Nyctinomops macrotis,Nyctinomops macrotis,Big Free-tailed Bat,Herbivore,NA,LC,
+01/05/23,PROCEN,Mammalia,Chiroptera,Molossidae,Promops,Promops centralis,Promops centralis,Big Crested Mastiff Bat,Herbivore,NA,LC,
+01/05/23,EPTBRA,Mammalia,Chiroptera,Vespertilionidae,Eptesicus,Eptesicus brasiliensis,Eptesicus brasiliensis,Brazilian Brown Bat,Herbivore,NA,LC,
+01/05/23,LASBLO,Mammalia,Chiroptera,Vespertilionidae,Lasiurus,Lasiurus blossevillii,Lasiurus blossevillii,Southern Red Bat,Herbivore,NA,LC,
+01/05/23,MYOALB,Mammalia,Chiroptera,Vespertilionidae,Myotis,Myotis albescens,Myotis albescens,Silver-tipped Myotis,Herbivore,NA,LC,
+01/05/23,MYOCAU,Mammalia,Chiroptera,Vespertilionidae,Myotis,Myotis caucensis,Myotis caucensis,Cauca River Myotis,Herbivore,NA,NA,Not listed in IUCN. GBIF range in ecuador
+01/05/23,MYONIG,Mammalia,Chiroptera,Vespertilionidae,Myotis,Myotis nigricans,Myotis nigricans,Black myotis,Herbivore,NA,LC,
+01/05/23,MYORIP,Mammalia,Chiroptera,Vespertilionidae,Myotis,Myotis riparius,Myotis riparius,Riparian Myotis,Herbivore,NA,LC,
+01/05/23,MYOSIM,Mammalia,Chiroptera,Vespertilionidae,Myotis,Myotis simus,Myotis simus,Velvety myotis,Herbivore,NA,DD,IUCN and GBIF show potentially in tiputini
+30/04/23,CABUNI,Mammalia,Cingulata,Chlamyphoridae,Cabassous,Cabassous unicinctus,Cabassous unicinctus,Southern naked-tailed armadillo,Herbivore,Terrestrial,LC,
+30/04/23,DASKAP,Mammalia,Cingulata,Dasypodidae,Dasypus,Dasypus kappleri,Dasypus kappleri,Greater long-nosed armadillo,UNK,Terrestrial,LC,
+30/04/23,PRIMAX,Mammalia,Cingulata,Chlamyphoridae,Priodontes,Priodontes maximus,Priodontes maximus,Giant armadillo,Herbivore,Terrestrial,VU,
+30/04/23,DASNOV,Mammalia,Cingulata,Dasypodidae,Dasypus,Dasypus novemcinctus,Dasypus novemcinctus,Nine-banded armadillo,Herbivore,Terrestrial,LC,
+30/04/23,CYCDID,Mammalia,Cyclopedidae,Cyclopedidae,Cyclopes,Cyclopes didactylus,Cyclopes didactylus,Silky anteater,Carnivore,Arboreal,LC,
+30/04/23,CALLAN,Mammalia,Didelphimorpha,Didelphidae,Caluromys,Caluromys lanatus,Caluromys lanatus,Brown-eared woolly opossum,Omnivore,Mixed,LC,
+30/04/23,CHIMIN,Mammalia,Didelphimorpha,Didelphidae,Chironectes,Chironectes minimus,Chironectes minimus,Water opossum,Carnivore,Mixed,LC,Possibly not in study because so dependent on river
+30/04/23,DIDMAR,Mammalia,Didelphimorpha,Didelphidae,Didelphis,Didelphis marsupialis,Didelphis marsupialis,Common opossum,Omnivore,Mixed,LC,START HERE
+30/04/23,GILVEN,Mammalia,Didelphimorpha,Didelphidae,Glironia,Glironia venusta,Glironia venusta,Bushy-tailed opossum,Omnivore,Mixed,LC,
+30/04/23,MARREG,Mammalia,Didelphimorpha,Didelphidae,Marmosa,Marmosa regina,Micoureus regina,Short-furred woolly mouse opossum,Omnivore,Mixed,LC,
+30/04/23,MARRUB,Mammalia,Didelphimorpha,Didelphidae,Marmosa,Marmosa rubra,Marmosa rubra,Red mouse opossum,Omnivore,Mixed,DD,
+30/04/23,MARMUR,Mammalia,Didelphimorpha,Didelphidae,Marmosa,Marmosa murina,Marmosa murina,Linnaeus's mouse opossum,Omnivore,Mixed,LC,Previously Marmosa waterhousi but this is now the subspecies classification
+30/04/23,MARNOC,Mammalia,Didelphimorpha,Didelphidae,Marmosops,Marmosops noctivagus,Marmosops noctivagus,White-bellied slender mouse opossum,Omnivore,Mixed,LC,
+30/04/23,MONADU,Mammalia,Didelphimorpha,Didelphidae,Monodelphis,Monodelphis adusta,Monodelphis adusta,Sepia short-tailed opossum,Omnivore,Mixed,LC,
+30/04/23,PHIAND,Mammalia,Didelphimorpha,Didelphidae,Philander,Philander andersoni,Philander andersoni,Anderson's four-eyed opossum,Omnivore,Mixed,LC,
+30/04/23,TAPTER,Mammalia,Perissodactyla,Tapiridae,Tapirus,Tapirus terrestris,Tapirus terrestris,Lowland tapir,Herbivore,Terrestrial,VU,
+30/04/23,BRAVAR,Mammalia,Pilosa,Bradypodidae,Bradypus,Bradypus variegatus,Bradypus variegatus,Brown-throated sloth,Herbivore,Arboreal,LC,
+30/04/23,CHODID,Mammalia,Pilosa,Megalonychidae,Choloepus,Choloepus didactylus,Choloepus didactylus,Linné's two-toed sloth,Herbivore,Arboreal,LC,
+30/04/23,MYRTRI,Mammalia,Pilosa,Myrmecophagidae,Myrmecophaga,Myrmecophaga tridactyla,Myrmecophaga tridactyla,Giant ant eater,Omnivore,Terrestrial,VU,https://www.iucnredlist.org/species/14224/47441961
+30/04/23,TAMTET,Mammalia,Pilosa,Myrmecophagidae,Tamandua,Tamandua tetradactyla,Tamandua tetradactyla,Tamandua,Omnivore,Mixed,LC,
+30/04/23,LEOTRI,Mammalia,Primata,Callitrichidae,Leontocebus,Leontocebus tripartitus,Saguinus tripartitus,Golden-mantled saddle-back tamarin,Herbivore,Arboreal,NT,"Galán‐Acedo, C., Arroyo‐Rodríguez, V., Andresen, E., & Arasa‐Gisbert, R. (2019). Ecological traits of the world’s primates. Scientific Data, 6(1). https://doi.org/10.1038/s41597-019-0059-9"
+30/04/23,AOTVOC,Mammalia,Primata,Aotidae,Aotus,Aotus vociferans,Aotus vociferans,Spix's night monkey,Herbivore,Arboreal,LC,
+30/04/23,ALOSEN,Mammalia,Primata,Atelidae,Alouatta,Alouatta seniculus,Alouatta seniculus,Columbian red howler monkey,Herbivore,Arboreal,LC,
+30/04/23,ATEBEL,Mammalia,Primata,Atelidae,Ateles,Ateles belzebuth,Ateles belzebuth,White-bellied spider monkey,Herbivore,Arboreal,EN,Wierdly the IUCN range is missing any info in Ecuador so strange
+30/04/23,LAGLAG,Mammalia,Primata,Atelidae,Lagothrix,Lagothrix lagothricha,Lagothrix lagotricha,Common woolly monkey,Herbivore,Arboreal,VU,
+30/04/23,CEBNIV,Mammalia,Primata,Callitrichidae,Cebuella,Cebuella pygmaea,Callithrix pygmaea,Western pygmy marmoset,Herbivore,Arboreal,VU,
+30/04/23,CEBYUR,Mammalia,Primata,Cebidae,Cebus,Cebus albifrons,Cebus albifrons,White-fronted capuchin,Herbivore,Arboreal,LC,
+30/04/23,SAICAS,Mammalia,Primata,Cebidae,Saimiri,Saimiri sciureus,Saimiri sciureus,Humboldt's squirrel monkey,Herbivore,Arboreal,LC,
+30/04/23,PLEDIS,Mammalia,Primata,Pitheciidae,Plecturocebus,Plecturocebus discolor,Callicebus discolor,Red titi monkey,Herbivore,Arboreal,LC,
+30/04/23,PITNAP,Mammalia,Primata,Pitheciidae,Pithecia,Pithecia napensis,Pithecia monachus,Napo saki monkey,Herbivore,Arboreal,LC,"Marsh, L.K., de la Torre, S. & Moscoso, P. 2018. Pithecia napensis. The IUCN Red List of Threatened Species 2018: e.T39955A70609585. https://dx.doi.org/10.2305/IUCN.UK.2018-2.RLTS.T39955A70609585.en. Accessed on 19 May 2023."
+30/04/23,EURMAC,Mammalia,Rodentia,Cricetidae,Euryoryzomys,Euryoryzomys macconnelli,Oryzomys macconnelli,MacConnell's rice rat,Herbivore,Terrestrial,LC,
+30/04/23,HOLSCI,Mammalia,Rodentia,Cricetidae,Holochilus,Holochilus sciureus,Holochilus sciureus,Amazonian marsh rat,Herbivore,Terrestrial,LC,Might not be in TF because it likes marshy habitat nesting in rice and sugarcane marsh mostly
+30/04/23,HYLYUN,Mammalia,Rodentia,Cricetidae,Hylaeamys,Hylaeamys yunganus,Oryzomys yunganus,Yungas rice rat,Herbivore,Terrestrial,LC,Might not be in TF because it likes marshy habitat nesting in rice and sugarcane marsh mostly
+30/04/23,NEASPI,Mammalia,Rodentia,Cricetidae,Neacomys,Neacomys spinosus,Neacomys spinosus,Common neacomys,Herbivore,UNK,LC,
+30/04/23,NECAPI,Mammalia,Rodentia,Cricetidae,Nectomys,Nectomys apicalis,Nectomys apicalis,Western Amazonian nectomys,Herbivore,UNK,LC,
+30/04/23,OECBIC,Mammalia,Rodentia,Cricetidae,Oecomys,Oecomys bicolor,Oecomys bicolor,White-bellied arboreal mouse,Herbivore,Arboreal,LC,Probably one of our arboreal mouse genus?
+30/04/23,OECCON,Mammalia,Rodentia,Cricetidae,Oecomys,Oecomys concolor,Oecomys concolor,Unicolored arboreal mouse,Herbivore,Arboreal,LC,Probably one of our arboreal mouse genus?
+30/04/23,OECSUP,Mammalia,Rodentia,Cricetidae,Oecomys,Oecomys superans,Oecomys superans,Large oecomys,Herbivore,Arboreal,LC,
+30/04/23,OLIFUL,Mammalia,Rodentia,Cricetidae,Oligoryzomys,Oligoryzomys fulvescens,Oligoryzomys fulvescens,Northern pygmy rice rat,Herbivore,Terrestrial,LC,
+30/04/23,RHILEU,Mammalia,Rodentia,Cricetidae,Rhipidomys,Rhipidomys leucodactylus,Rhipidomys leucodactylus,White-footed climbing mouse,Herbivore,Mixed,LC,Probably one of our arboreal mouse genus?
+30/04/23,COEICH,Mammalia,Rodentia,Erethizontidae,Coendou,Coendou ichillus,Sphiggurus ichillus,Streaked dwarf porcupine,Herbivore,Mixed,DD,"IUCN notes it is very uncommon, old name from Wiki"
+30/04/23,COEPRE,Mammalia,Rodentia,Erethizontidae,Coendou,Coendou prehensilis,Coendou prehensilis,Brazilian porcupine,Herbivore,Mixed,LC,What are the differences in morphology between this and the streaked dwarf species? I think if its size then at Tiputini that has to be all I've seen...
+30/04/23,SCISPA,Mammalia,Rodentia,Sciuridae,Sciurus,Sciurus spadiceus,Sciurus spadiceus,Southern Amazon red squirrel,Herbivore,Mixed,LC,What is the difference between squirrel spp.? Do we even have them in the cameras yet?
+30/04/23,MICFLA,Mammalia,Rodentia,Sciuridae,Microsciurus,Microsciurus flaviventer,Microsciurus flaviventer,Amazon dwarf squirrel,Herbivore,Mixed,LC,
+30/04/23,SCUIGN,Mammalia,Rodentia,Sciuridae,Sciurus,Sciurus igniventris,Sciurus igniventris,Northern Amazon red squirrel,Herbivore,Mixed,LC,Previously Hadrosciurus igniventris
+30/04/23,CUNPAC,Mammalia,Rodentia,Cuniculidae,Cuniculus,Cuniculus paca,Cuniculus paca,Lowland paca,Herbivore,Terrestrial,LC,
+30/04/23,DASFUL,Mammalia,Rodentia,Dasyproctidae,Dasyprocta,Dasyprocta fuliginosa,Dasyprocta fuliginosa,Black agouti,Herbivore,Terrestrial,LC,
+30/04/23,ECHSAT,Mammalia,Rodentia,Echimyidae,Echimys,Echimys saturnus,Echimys saturnus,Dark spiny tree-rat,Herbivore,Arboreal,DD,
+30/04/23,HYDHYD,Mammalia,Rodentia,Caviidae,Hydrochoerus,Hydrochoerus hydrochaeris,Hydrochoerus hydrochaeris,Capybara,Herbivore,Terrestrial,LC,
+30/04/23,ISOBIS,Mammalia,Rodentia,Echimyidae,Isothrix,Isothrix bistriata,Isothrix bistriata,Yellow-crowned Brush-tailed rat,Herbivore,UNK,LC,
+30/04/23,MAKMAC,Mammalia,Rodentia,Echimyidae,Makalata,Makalata macrura,Makalata macrura,Long-tailed armored tree-rat,Herbivore,Arboreal,LC,"Slightly outside of range on IUCN, GBIF points also outside the area"
+30/04/23,MESHIS,Mammalia,Rodentia,Echimyidae,Mesomys,Mesomys hispidus,Mesomys hispidus,Ferreira's spiny tree-rat,Herbivore,Arboreal,LC,
+30/04/23,MYOPRA,Mammalia,Rodentia,Dasyproctidae,Myoprocta,Myoprocta pratti,Myoprocta pratti,Green acouchi,Herbivore,Terrestrial,LC,
+30/04/23,PATOCC,Mammalia,Rodentia,Echimyidae,Pattonomys,Pattonomys occasius,Makalata occasius,Bare-tailed armored tree-rat,Herbivore,Arboreal,DD,IUCN range unknown
+30/04/23,PROBRE,Mammalia,Rodentia,Echimyidae,Proechimys,Proechimys brevicauda,Proechimys brevicauda,The short-tailed spiny-rat ,Herbivore,UNK,LC,
+30/04/23,PROQUA,Mammalia,Rodentia,Echimyidae,Proechimys,Proechimys quadruplicatus,Proechimys quadruplicatus,Napo spiny rat,Herbivore,UNK,LC,
+30/04/23,PROSIM,Mammalia,Rodentia,Echimyidae,Proechimys,Proechimys simonsi,Proechimys simonsi,Simons's spiny rat,Herbivore,UNK,LC,
+08/01/23,TUPCUZ,Reptilia,Squamata,Teiidae,Tupinambis,Tupinambis cuzcoensis,Tupinambis cuzcoensis,Cuzco tegu,,,,
+09/05/23,CHEDEN,Reptilia,Testudines,Testudinidae,Chelonoidis,Chelonoidis denticulata,Chelonoidis denticulata,Yellow-footed tortoise,Omnivore,0,VU,https://www.sciencedirect.com/science/article/pii/S2530064417300731
